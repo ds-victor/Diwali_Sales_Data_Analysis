@@ -9,7 +9,7 @@ We want to analyze the dataset to answer following questions:
 - Product Category Wise Performance
 
 **Dataset link:**
-Link: https://drive.google.com/file/d/1BPotfWkpOV5kr72UPZpsCcf3w_bxyaCN/view?usp=sharing
+https://drive.google.com/file/d/1BPotfWkpOV5kr72UPZpsCcf3w_bxyaCN/view?usp=sharing
 
 **Technology Used:**
 - Python
